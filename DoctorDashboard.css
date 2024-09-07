@@ -1,0 +1,32 @@
+.doctor-dashboard {
+    text-align: center;
+    background-color: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  h1 {
+    color: #3b0066; /* Dark Purple */
+    font-size: 2.5rem;
+  }
+  
+  .description {
+    color: #a6a6a6;
+    font-size: 1.2rem;
+    margin-bottom: 20px;
+  }
+  
+  .get-images-button {
+    background-color: #3b0066; /* Dark Purple */
+    color: white;
+    border: none;
+    padding: 12px 24px;
+    font-size: 1.1rem;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .get-images-button:hover {
+    background-color: #7e57c2; /* Light Purple */
+  }
